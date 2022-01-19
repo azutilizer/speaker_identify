@@ -1,0 +1,32 @@
+body {
+	font-family: 'ProximaNova-Regular' !important;
+	background: #00aaff;
+	color: white;
+}
+
+#logo {
+    height: 2em;
+    margin-right: 0.5em;
+}
+
+#output {
+    background-color: #eee;
+    height: 500px;
+    overflow: auto;
+    padding: 10px;
+}
+
+#status {
+    font-size: 9pt;
+    margin-left: 10px;
+}
+
+#download_href {
+    display: none;
+}
+
+.btn:hover {
+	background-color: #078eff;
+	color: white;
+    box-shadow: 0 0 2px #4143ff;
+}
